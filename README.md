@@ -1,1 +1,3 @@
-![](https://external-preview.redd.it/ylOorsBvmAKklw8CJ1WQwC5mBFb7HsDY9U8wHvWDeVg.jpg?width=960&crop=smart&auto=webp&s=23c78d5d6c1a4989971695e9447b1754b359da15)
+# Minimalist.
+
+I'm a full-stack engineer with 13+ years of experience. I started my career back in 2007 as a designer, then quickly started coding as well.
